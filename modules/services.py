@@ -22,13 +22,27 @@ class LoadAndCleanData:
         self.path = path            # Get the File Path from the directory
 
 
-    def read_and_clean_data(self):
+    def read_dataset(self):
         review_df = pd.read_csv(self.path) 
         review_df = review_df.dropna().reset_index(drop=True)
         df = review_df['CleanedText']
-        # df['CleanedText'].replace(regex=True, inplace=True, to_replace=r'[^0-9.\-]', value=r'')
-        # review_df = review_df.drop(review_df['CleanedText'],axis = 0)
         return df
+
+
+    # Get the clean text list fron Dataset
+
+    def get_clean_data(self):
+
+        df = self.read_dataset()
+        clean_text = []
+        for i in range(0, len(df)):
+            review = re.sub('[^a-zA-Z]', ' ', str(df[i]))
+            review = " ".join(re.split("\s+", review, flags=re.UNICODE))
+
+            if review != ' ':
+                clean_text.append(review)  
+
+        return clean_text
 
 
     # Remove Special Characters, Convert into the lower case and Stop Words & Apply Lemmatization
@@ -42,19 +56,24 @@ class LoadAndCleanData:
         lemmatizer = WordNetLemmatizer()        # Apply Lemmatization
         corpus_list = []
 
-        df = self.read_and_clean_data()
+        data_list = self.get_clean_data()
 
-        for i in tqdm(range(0, len(df))):
-            review = re.sub('[^a-zA-Z]', ' ', str(df[i]))
-            review = review.lower()
+        for i in tqdm(range(0, len(data_list))):
+            review = str(data_list[i]).lower()
             review = review.split()
             
             review = [lemmatizer.lemmatize(word) for word in review if not word in stop_words]
             review = ' '.join(review)
             corpus_list.append(review)
 
+        print(corpus_list)
         return corpus_list
 
+
+    # Remove Empty String from Corpus List
+
+    def convert_empty_string_to_none(self):
+        return [str(sent or None) for sent in self.clean_text_and_lemmatize()]
 
 
 
@@ -63,11 +82,6 @@ class TopicClassifier:
     def __init__(self, data):
         self.data = data        # Get the clean data List
 
-    # Remove Empty String from Corpus List
-
-    def convert_empty_string_to_none(self):
-        return [str(data or None) for data in self.data]
-        
 
     # Get Keywords & Apply Part of Speech  
 
@@ -113,7 +127,7 @@ class TypeClassifier:
             reviews = dict(zip(data['labels'], data['scores']))
             type_list.append(max(reviews, key = reviews.get))
 
-        print(type_list)
+        # print(type_list)
         return type_list
 
     # candidate_labels = ['appreciation', 'information', 'complaint']
@@ -136,5 +150,5 @@ class SentimentClassifier:
         for data in result:
             labels_list.append(data['label'])
         
-        print(labels_list)
+        # print(labels_list)
         return labels_list
