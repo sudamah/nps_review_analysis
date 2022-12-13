@@ -9,4 +9,8 @@ class LabelsToDataframe:
         self.data = data
 
     def get_data_frame(self):
-        pass
+
+        path = '/home/heptagon/Desktop/nps_analysis/reviews_data.csv'
+        load_data = LoadAndCleanData(path)
+
+        load_data.clean_text_and_lemmatize()
