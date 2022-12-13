@@ -24,7 +24,7 @@ class LoadAndCleanData:
     def read_dataset(self):
         review_df = pd.read_csv(self.path)
         review_df = review_df.dropna().reset_index(drop=True)
-        df = review_df['CleanedText']
+        df = review_df['comments']
         return df
 
     # Get the clean text list fron Dataset
@@ -40,11 +40,12 @@ class LoadAndCleanData:
             if review != ' ':
                 clean_text.append(review)
 
+        # print(clean_text)
         return clean_text
 
     # Remove Special Characters, Convert into the lower case and Stop Words & Apply Lemmatization
 
-    def clean_text_and_lemmatize(self):
+    def get_lemmatize_data(self):
 
         # list of Stop Words Excluding (not, no)
         stop_words = stopwords.words('english')
@@ -65,13 +66,13 @@ class LoadAndCleanData:
             review = ' '.join(review)
             corpus_list.append(review)
 
-        print(corpus_list)
+        # print(corpus_list)
         return corpus_list
 
     # Remove Empty String from Corpus List
 
     def convert_empty_string_to_none(self):
-        return [str(sent or None) for sent in self.clean_text_and_lemmatize()]
+        return [str(sent or None) for sent in self.get_lemmatize_data()]
 
 
 class TopicClassifier:
@@ -96,10 +97,10 @@ class TopicClassifier:
 
             combined_list = [str(word) for word in combined_pattern]
 
-            str_list = ",".join(combined_list)
+            str_list = ",".join(combined_list[:20])
             key_phreses_list.append(str_list)
-        # print(key_phreses_list)
 
+        # print(key_phreses_list)
         return key_phreses_list
 
 # {"POS":"NOUN"}, {"POS":"PRON"}, {"POS":"VERB"}, {"POS":"ADV"}
