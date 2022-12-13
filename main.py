@@ -1,7 +1,7 @@
 # importing  all the
 
 from modules.services import LoadAndCleanData, TopicClassifier, SentimentClassifier, TypeClassifier
-
+from modules.utils import LabelsToDataframe
 
 path = '/home/heptagon/Desktop/nps_analysis/reviews_data.csv'
 
@@ -12,6 +12,7 @@ corpus_list = TopicClassifier(load_data.clean_text_and_lemmatize())
 sentiments_list = SentimentClassifier(load_data.clean_text_and_lemmatize())
 type_list = TypeClassifier(load_data.convert_empty_string_to_none())
 
+data_frame = LabelsToDataframe()
 
 if __name__ == '__main__':
 

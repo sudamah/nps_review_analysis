@@ -1,8 +1,12 @@
-# import pandas as pd
+import pandas as pd
+
+from modules.services import LoadAndCleanData, TopicClassifier, SentimentClassifier, TypeClassifier
 
 
+class LabelsToDataframe:
 
+    def __init__(self, data):
+        self.data = data
 
-
-# class convert_labels_to_dataframe:
-#     pass
+    def get_data_frame(self):
+        pass
