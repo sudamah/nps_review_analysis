@@ -12,6 +12,9 @@ import textacy
 
 from transformers import pipeline
 
+import itertools
+from collections import defaultdict
+
 import warnings
 warnings.filterwarnings("ignore")
 
@@ -104,6 +107,20 @@ class TopicClassifier:
         return key_phreses_list
 
 # {"POS":"NOUN"}, {"POS":"PRON"}, {"POS":"VERB"}, {"POS":"ADV"}
+
+    def get_most_keywords_list(self):
+        res = [i for i in self.get_keywords_phreses() if i]
+        res = ",".join([str(item) for item in res]).split(',')
+
+        temp = defaultdict(int)    # Get Most frequent 20 Keywords
+
+        for sub in res:
+            temp[sub] += 1
+        out = (dict(itertools.islice(dict(temp).items(), len(res))))
+        out = {k: v for k, v in sorted(
+            out.items(), key=lambda item: item[1], reverse=True)}
+        out = out.keys()
+        return list(out)[:20]
 
 
 class TypeClassifier:
