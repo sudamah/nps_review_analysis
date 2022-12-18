@@ -72,11 +72,6 @@ class LoadAndCleanData:
         # print(corpus_list)
         return corpus_list
 
-    # Remove Empty String from Corpus List
-
-    def convert_empty_string_to_none(self):
-        return [str(sent or None) for sent in self.get_lemmatize_data()]
-
 
 class TopicClassifier:
 
@@ -106,6 +101,17 @@ class TopicClassifier:
         # print(key_phreses_list)
         return key_phreses_list
 
+    # Get None from Empty String from Key Phreses List
+
+    def convert_empty_string_to_none(self):
+        return [str(sent or None) for sent in self.get_keywords_phreses()]
+
+    # Remove None from Key Phreses List
+
+    def remove_none(self):
+        return [i for i in self.get_keywords_phreses() if i]
+
+
 # {"POS":"NOUN"}, {"POS":"PRON"}, {"POS":"VERB"}, {"POS":"ADV"}
 
     def get_most_keywords_list(self):
@@ -120,6 +126,8 @@ class TopicClassifier:
         out = {k: v for k, v in sorted(
             out.items(), key=lambda item: item[1], reverse=True)}
         out = out.keys()
+
+        print(list(out)[:20])
         return list(out)[:20]
 
 
