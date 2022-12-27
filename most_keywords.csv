@@ -1,0 +1,161 @@
+similar_words_and_count,count_of_similar_words,most_used_similar_word,total_similar_words,key_expressions
+"{'balanced sound': 2, 'sound quality': 27, 'good sound': 2, 'sound clarity': 2, 'bose sound': 1, 'sound product': 1, 'full sound': 1, 'clear sound': 2, 'great sound': 4, 'crisp sound': 1, 'natural sound': 1, 'best sound': 1, 'quick sound': 1, 'sound type': 1, 'audio quality': 1, 'instrument sound': 1, 'sound system': 1}",50,sound quality,17,sound
+"{'good product': 1, 'worthy product': 1, 'excellent quality': 1, 'best quality': 1, 'satisfied product': 1, 'awesome product': 1, 'good quality': 2, 'excellent product': 2, 'bose product': 3, 'good purchase': 1, 'happy product': 1}",15,bose product,11,worthy
+"{'heavy bass': 1, 'treble bass': 1, 'equalized bass': 1, 'much bass': 2, 'deep bass': 2, 'good bass': 1, 'seprate bass': 1, 'deeper bass': 1}",10,much bass,8,treble
+"{'full price': 1, 'different price': 1, 'correct price': 1, 'exact price': 1, 'ok price': 1, 'expensive sale': 1, 'half price': 1}",7,full price,7,ok
+"{'daily music': 1, 'twice music': 1, 'natural music': 1, 'overall music': 1, 'useful music': 1, 'amazing music': 1, 'bose music': 1}",7,daily music,7,useful
+"{'portable speaker': 7, 'expensive speaker': 1, 'audio tech': 1, 'bose speaker': 2, 'small speaker': 1, 'connect speaker': 1}",13,portable speaker,6,small
+"{'sound punchyb': 1, 'marvellous sound': 1, 'audible punch': 1, 'mic noise': 1, 'awesome sound': 1, 'loud bose': 1}",6,sound punchyb,6,sound
+"{'exceptional quality': 1, 'superb quality': 1, 'excellent form': 1, 'fantastic using': 1, 'kind quality': 1}",5,exceptional quality,5,superb
+"{'worth money': 2, 'worth investment': 1, 'good amount': 1, 'worth extent': 1, 'worth amount': 1}",6,worth money,5,worth
+"{'full volume': 1, 'high volume': 2, 'treble volume': 1, 'moderate volume': 1}",5,high volume,4,treble
+"{'good deal': 1, 'good win': 1, 'glad buy': 1, 'great deal': 1}",4,good deal,4,great
+"{'much product': 1, 'important product': 1, 'great product': 1, 'expensive product': 1}",4,much product,4,much
+"{'bigger speaker': 1, 'top speaker': 2, 'big speaker': 1}",4,top speaker,3,top
+"{'satisfied speaker': 1, 'good speaker': 1, 'happy sound': 1}",3,satisfied speaker,3,satisfied
+"{'good clarity': 1, 'clear ease': 1, 'amazing clarity': 1}",3,good clarity,3,good
+"{'outer box': 1, 'outer cardboard': 1, 'beautiful box': 1}",3,outer box,3,outer
+"{'bt connectivity': 1, 'easy connectivity': 1, 'bt connection': 1}",3,bt connectivity,3,easy
+"{'good battery': 2, 'well battery': 1, 'long battery': 1}",4,good battery,3,well
+"{'suitable home': 1, 'portable home': 3}",4,portable home,2,suitable
+"{'original factory': 1, 'original product': 1}",2,original factory,2,original
+"{'quick wellto': 1, 'quick hassle': 1}",2,quick wellto,2,quick
+"{'awesome purchase': 1, 'willing purchase': 1}",2,awesome purchase,2,willing
+"{'technical knowledge': 1, 'technical support': 1}",2,technical knowledge,2,technical
+"{'first lot': 1, 'first bose': 2}",3,first bose,2,first
+"{'satisfied love': 1, 'great love': 1}",2,satisfied love,2,satisfied
+"{'bose revolve': 3, 'original revolve': 1}",4,bose revolve,2,original
+"{'bossy bose': 1, 'bossy crispy': 1}",2,bossy bose,2,bossy
+"{'clarityother frequency': 1, 'great frequency': 1}",2,clarityother frequency,2,great
+"{'poor bose': 1, 'good bose': 1}",2,poor bose,2,poor
+"{'connect device': 1, 'connect phone': 1}",2,connect device,2,connect
+"{'perfect condition': 2, 'perfect output': 1}",3,perfect condition,2,perfect
+"{'pathetic service': 1, 'proper service': 1}",2,pathetic service,2,proper
+"{'lowest price': 1, 'lesser price': 1}",2,lowest price,2,lowest
+"{'many day': 1, 'well day': 1}",2,many day,2,well
+"{'soundlink revolve': 3, 'sound bar': 1}",4,soundlink revolve,2,soundlink
+"{'ii generation': 1, 'first generation': 1}",2,ii generation,2,ii
+"{'incredible piece': 1, 'fantastic piece': 1}",2,incredible piece,2,incredible
+"{'full usagea': 1, 'simple use': 1}",2,full usagea,2,simple
+{'good recommend': 1},1,good recommend,1,good
+{'spare tv': 1},1,spare tv,1,spare
+{'refund purchase': 1},1,refund purchase,1,refund
+{'loud work': 1},1,loud work,1,loud
+{'good investment': 1},1,good investment,1,good
+{'dull term': 1},1,dull term,1,dull
+{'sound expectation': 1},1,sound expectation,1,sound
+{'cheaper product': 1},1,cheaper product,1,cheaper
+{'amazing voice': 1},1,amazing voice,1,amazing
+{'bose vol': 1},1,bose vol,1,bose
+{'audio video': 1},1,audio video,1,audio
+{'much help': 1},1,much help,1,much
+{'annoying answer': 1},1,annoying answer,1,annoying
+{'sensitive ear': 1},1,sensitive ear,1,sensitive
+{'original packing': 1},1,original packing,1,original
+{'prime day': 1},1,prime day,1,prime
+{'remote party': 1},1,remote party,1,remote
+{'good everyday': 1},1,good everyday,1,good
+{'wise gud': 1},1,wise gud,1,wise
+{'irreparable mention': 1},1,irreparable mention,1,irreparable
+{'disappointed behaviour': 1},1,disappointed behaviour,1,disappointed
+{'main purpose': 1},1,main purpose,1,main
+{'equaliser source': 1},1,equaliser source,1,equaliser
+{'available service': 1},1,available service,1,available
+{'entire money': 1},1,entire money,1,entire
+{'great care': 1},1,great care,1,great
+{'technical fee': 1},1,technical fee,1,technical
+{'natural mono': 1},1,natural mono,1,natural
+{'least hour': 1},1,least hour,1,least
+{'new one': 1},1,new one,1,new
+{'best feature': 1},1,best feature,1,best
+{'louder room': 1},1,louder room,1,louder
+{'second gen': 1},1,second gen,1,second
+{'bose sale': 1},1,bose sale,1,bose
+{'misleading piece': 1},1,misleading piece,1,misleading
+{'serious piece': 1},1,serious piece,1,serious
+{'clear lack': 1},1,clear lack,1,clear
+{'outdoor use': 1},1,outdoor use,1,outdoor
+{'casual listening': 1},1,casual listening,1,casual
+{'excellent friend': 1},1,excellent friend,1,excellent
+{'technical call': 1},1,technical call,1,technical
+{'poor quality': 1},1,poor quality,1,poor
+{'pure treat': 1},1,pure treat,1,pure
+{'technical team': 1},1,technical team,1,technical
+{'dirty time': 1},1,dirty time,1,dirty
+{'sound mind': 1},1,sound mind,1,sound
+{'terrible sale': 1},1,terrible sale,1,terrible
+{'enough pinch': 1},1,enough pinch,1,enough
+{'wrong product': 1},1,wrong product,1,wrong
+{'best business': 1},1,best business,1,best
+{'cautious spend': 1},1,cautious spend,1,cautious
+{'know couple': 1},1,know couple,1,know
+{'good size': 1},1,good size,1,good
+{'prime customer': 1},1,prime customer,1,prime
+{'first time': 1},1,first time,1,first
+{'best surround': 1},1,best surround,1,best
+{'futile email': 1},1,futile email,1,futile
+{'live performance': 1},1,live performance,1,live
+{'outside room': 1},1,outside room,1,outside
+{'better others': 1},1,better others,1,better
+{'transparent sound': 1},1,transparent sound,1,transparent
+{'con drain': 1},1,con drain,1,con
+{'light weight': 1},1,light weight,1,light
+{'top notch': 2},2,top notch,1,top
+{'high portability': 1},1,high portability,1,high
+{'high satisfaction': 1},1,high satisfaction,1,high
+{'balanced auto': 1},1,balanced auto,1,balanced
+{'perfect trip': 1},1,perfect trip,1,perfect
+{'full week': 1},1,full week,1,full
+{'loud election': 1},1,loud election,1,loud
+{'foolish compare': 1},1,foolish compare,1,foolish
+{'tiny speaker': 1},1,tiny speaker,1,tiny
+{'transparent quality': 1},1,transparent quality,1,transparent
+{'little genius': 1},1,little genius,1,little
+{'vividh bharti': 1},1,vividh bharti,1,vividh
+{'riyaz morning': 1},1,riyaz morning,1,riyaz
+{'little beauty': 1},1,little beauty,1,little
+{'perfect box': 1},1,perfect box,1,perfect
+{'individual perception': 1},1,individual perception,1,individual
+{'poor experience': 1},1,poor experience,1,poor
+{'rough handling': 1},1,rough handling,1,rough
+{'thin plastic': 1},1,thin plastic,1,thin
+{'worth shipment': 1},1,worth shipment,1,worth
+{'sweet spot': 1},1,sweet spot,1,sweet
+{'best blutooth': 1},1,best blutooth,1,best
+{'basic job': 1},1,basic job,1,basic
+{'timesoverall verdict': 1},1,timesoverall verdict,1,timesoverall
+{'basic equilizer': 1},1,basic equilizer,1,basic
+{'bt version': 1},1,bt version,1,bt
+{'disturbing fact': 1},1,disturbing fact,1,disturbing
+{'small gathering': 1},1,small gathering,1,small
+{'rounded treat': 1},1,rounded treat,1,rounded
+{'versatile play': 1},1,versatile play,1,versatile
+{'skeptical price': 1},1,skeptical price,1,skeptical
+{'loud crystal': 1},1,loud crystal,1,loud
+{'lesser mrps': 1},1,lesser mrps,1,lesser
+{'best part': 1},1,best part,1,best
+{'old song': 1},1,old song,1,old
+{'good water': 1},1,good water,1,good
+{'last day': 1},1,last day,1,last
+{'whole year': 1},1,whole year,1,whole
+{'next level': 1},1,next level,1,next
+{'full charge': 1},1,full charge,1,full
+{'bose app': 2},2,bose app,1,bose
+{'excess percent': 1},1,excess percent,1,excess
+{'subtle note': 1},1,subtle note,1,subtle
+{'audio sizebase': 1},1,audio sizebase,1,audio
+{'good package': 1},1,good package,1,good
+{'open area': 1},1,open area,1,open
+{'bigger driver': 1},1,bigger driver,1,bigger
+{'durable disadvantage': 1},1,durable disadvantage,1,durable
+{'portable case': 1},1,portable case,1,portable
+{'perfect match': 1},1,perfect match,1,perfect
+{'perfect blend': 1},1,perfect blend,1,perfect
+{'junior model': 1},1,junior model,1,junior
+{'mixed packaging': 1},1,mixed packaging,1,mixed
+{'compatible window': 1},1,compatible window,1,compatible
+{'previous version': 1},1,previous version,1,previous
+{'good predecessor': 1},1,good predecessor,1,good
+{'absolute beast': 1},1,absolute beast,1,absolute
+{'trebble base': 1},1,trebble base,1,trebble
+{'black finish': 1},1,black finish,1,black
