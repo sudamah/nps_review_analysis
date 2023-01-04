@@ -3,7 +3,8 @@
 from modules.services import LoadAndCleanData, TopicClassifier, SentimentClassifier, TypeClassifier
 from modules.utils import LabelsToDataframe
 
-path = '/home/heptagon/Desktop/nps_review_analysis/review.csv'
+# path = '/home/heptagon/Desktop/nps_review_analysis/review.csv'
+path = '/home/heptagon/Desktop/nps_review_analysis/bank_detail_review.csv'
 
 # Get Most 20 Keywords
 # load_data = LoadAndCleanData(path)
