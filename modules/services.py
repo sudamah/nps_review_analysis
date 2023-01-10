@@ -38,6 +38,23 @@ class LoadAndCleanData:
         clean_text = []
         for i in range(0, len(df)):
             review = re.sub('[^a-zA-Z]', ' ', str(df[i]))
+            # removing paragraph numbers
+            review = re.sub('[0-9]+.\t','',str(review))
+            # removing new line characters
+            review = re.sub('\n ','',str(review))
+            review = re.sub('\n',' ',str(review))
+            # removing apostrophes
+            review = re.sub("'s",'',str(review))
+            # removing hyphens
+            review = re.sub("-",' ',str(review))
+            review = re.sub("— ",'',str(review))
+            # removing quotation marks
+            review = re.sub('\"','',str(review))
+            # removing salutations
+            review = re.sub("Mr\.",'Mr',str(review))
+            review = re.sub("Mrs\.",'Mrs',str(review))
+            # removing any reference to outside review
+            review = re.sub("[\(\[].*?[\)\]]", "", str(review))
             review = " ".join(re.split("\s+", review, flags=re.UNICODE))
 
             if review != ' ':
