@@ -1,0 +1,385 @@
+similar_words_and_count,count_of_similar_words,most_used_similar_word,total_similar_words,associated_words
+"{'great experience': 10, 'overall experience': 3, 'great job': 9, 'wonderful experience': 5, 'excellent experience': 2, 'current experience': 1, 'marvelous job': 1, 'best experience': 3, 'extraordinary experience': 1, 'incredible job': 1, 'great service': 4, 'several experience': 1, 'positive experience': 2, 'awesome experience': 1, 'wonderful job': 2, 'great result': 1, 'excellent job': 1, 'fantastic experience': 1, 'amazing experience': 2, 'pleasant experience': 4, 'great thing': 1, 'entire experience': 1, 'helpful experience': 1, 'awesome job': 1, 'successful experience': 2, 'good experience': 4, 'fantastic job': 1, 'genuine experience': 1}",67,great experience,28,wonderful
+"{'previous loan': 1, 'qualified loan': 1, 'senior loan': 2, 'best loan': 4, 'perfect loan': 1, 'total loan': 1, 'unorganized loan': 1, 'complete loan': 1, 'sure loan': 1, 'necessary loan': 1, 'interested loan': 1, 'new loan': 2, 'abreast loan': 1, 'previous lender': 1, 'current lender': 1, 'previous refinance': 1, 'informed loan': 1, 'conventional loan': 1, 'previous mortgage': 1}",24,best loan,19,unorganized
+"{'quick mortgage': 1, 'future mortgage': 1, 'next mortgage': 1, 'many mortgage': 1, 'current mortgage': 1, 'complete mortgage': 1, 'amazing mortgage': 1, 'professional mortgage': 1, 'quickest mortgage': 1, 'monthly mortgage': 1, 'quickly loan': 1, 'consolidated mortgage': 1, 'right mortgage': 1, 'complicated mortgage': 1, 'first mortgage': 1, 'interested mortgage': 1}",16,quick mortgage,16,right
+"{'professional job': 1, 'best job': 2, 'professional enjoy': 1, 'professional trouble': 1, 'professional demeaner': 1, 'professional style': 1, 'professional tyler': 1, 'well professionalism': 1, 'professional issue': 1, 'professional process': 1, 'professional work': 1, 'professional manner': 1, 'absolute professionalism': 1, 'professional kind': 1, 'professional refi': 1}",16,best job,15,well
+"{'good work': 2, 'fantastic work': 3, 'good thing': 4, 'great work': 6, 'diligent work': 1, 'best work': 1, 'hard work': 5, 'great part': 1, 'outstanding work': 2, 'enjoyable work': 1, 'easy work': 3, 'excellent work': 2, 'pleasant work': 2, 'nice work': 1, 'wonderful work': 1}",35,great work,15,wonderful
+"{'excellent service': 9, 'recommend service': 1, 'excellent customer': 5, 'satisfied service': 3, 'happy service': 2, 'friendly service': 1, 'good service': 1, 'exceptional service': 2, 'exceptional customer': 1, 'professional service': 1, 'reliable service': 1, 'best service': 1}",28,excellent service,12,satisfied
+"{'whole process': 19, 'entire process': 15, 'indispensable process': 1, 'easy process': 5, 'explained process': 1, 'ongoing process': 1, 'sure process': 1, 'whole procedure': 1, 'top process': 1, 'smooth process': 2, 'seamless process': 1, 'easiest process': 1}",49,whole process,12,whole
+"{'easy thank': 2, 'awesome thanks': 1, 'easy need': 1, 'right thank': 1, 'great thanks': 1, 'many thanks': 2, 'free thank': 1, 'matter thanks': 1, 'fast thank': 1, 'simple thanks': 1, 'special thanks': 1, 'amazing thank': 1}",14,easy thank,12,special
+"{'awesome company': 1, 'great customer': 2, 'much company': 1, 'great company': 5, 'different company': 2, 'good company': 2, 'wonderful company': 1, 'pleased company': 1, 'fantastic company': 1, 'reputable company': 1, 'best company': 1}",18,great company,11,wonderful
+"{'hard team': 1, 'great team': 4, 'sure team': 1, 'amazing team': 1, 'outstanding teamwork': 1, 'excellent team': 1, 'stressful team': 1, 'good team': 1, 'whole team': 1}",12,great team,9,whole
+"{'thankful way': 1, 'glad today': 1, 'huge thank': 1, 'thankful team': 1, 'beautiful thank': 1, 'thankful speed': 1, 'big thank': 1, 'thankful feel': 1, 'happy way': 1}",9,thankful way,9,thankful
+"{'current refinance': 1, 'best refinance': 1, 'entire refinance': 1, 'close refinancing': 1, 'advantageous refinance': 1, 'twice refinance': 1, 'honest refinance': 1, 'helpful refinancing': 1, 'second refinance': 1}",9,current refinance,9,twice
+"{'easiest refi': 2, 'refi simple': 1, 'fastest refi': 1, 'able refin': 1, 'first refi': 1, 'initial refi': 1, 'several refi': 1, 'best refi': 1}",9,easiest refi,8,several
+"{'courteous deliver': 1, 'courteous professional': 1, 'sincere person': 1, 'gracious appreciate': 1, 'professional polite': 1, 'courteous agent': 1, 'helpful polite': 1}",7,courteous deliver,7,sincere
+"{'stressful side': 1, 'stressful knowing': 1, 'stressful moment': 1, 'stressful period': 1, 'smooth stress': 1, 'stressful process': 2}",7,stressful process,6,stressful
+"{'great rate': 6, 'good rate': 1, 'best rate': 1, 'better rate': 1, 'awesome percent': 1, 'highest rate': 1}",11,great rate,6,highest
+"{'best network': 1, 'recommend network': 4, 'satisfied network': 1, 'longer network': 1, 'tremendous network': 1, 'previous network': 1}",9,recommend network,6,tremendous
+"{'satisfied communication': 1, 'pleased interaction': 1, 'good communication': 3, 'great communication': 1, 'streamlined communication': 1, 'constant communication': 1}",8,good communication,6,streamlined
+"{'best knowledge': 1, 'informative understanding': 1, 'good information': 1, 'sure information': 1, 'best understanding': 1}",5,best knowledge,5,sure
+"{'knowledgeable job': 1, 'knowledgeable spencer': 1, 'knowledgeable area': 1, 'good job': 4, 'knowledgeable process': 2}",9,good job,5,knowledgeable
+"{'much jenifer': 1, 'much zach': 1, 'many deal': 1, 'large part': 1, 'much anouk': 1}",5,much jenifer,5,much
+"{'satisfied result': 1, 'pleased process': 1, 'satisfied thank': 1, 'satisfied refi': 1, 'happy result': 1}",5,satisfied result,5,satisfied
+"{'necessary paper': 1, 'necessary document': 1, 'possible paperwork': 1, 'top paper': 1, 'correct paper': 1}",5,necessary paper,5,top
+"{'available answer': 2, 'able answer': 2, 'available question': 1, 'nebulous answer': 1, 'certain question': 1}",7,available answer,5,nebulous
+"{'first time': 6, 'first place': 1, 'first date': 1, 'first situation': 1}",9,first time,4,first
+"{'critical time': 2, 'helpful time': 2, 'matter time': 1, 'possible time': 1}",6,critical time,4,possible
+"{'great interest': 1, 'high interest': 1, 'excellent attention': 1, 'best interest': 2}",5,best interest,4,high
+"{'financial paper': 1, 'financial institution': 1, 'financial transaction': 1, 'financial document': 1}",4,financial paper,4,financial
+"{'upbeat attitude': 1, 'good attitude': 1, 'great attitude': 1, 'positive attitude': 1}",4,upbeat attitude,4,upbeat
+"{'exceptional employee': 1, 'great employee': 1, 'exemplary employee': 1, 'understandable employee': 1}",4,exceptional employee,4,understandable
+"{'ramos talk': 1, 'easy talk': 1, 'personal conversation': 1, 'initial conversation': 2}",5,initial conversation,4,ramos
+"{'nice lady': 1, 'pleasant manner': 1, 'nice people': 2, 'wonderful woman': 1}",5,nice people,4,wonderful
+"{'grateful loan': 1, 'good loan': 1, 'excellent loan': 1, 'easy loan': 1}",4,grateful loan,4,grateful
+"{'crazy money': 1, 'expensive amount': 1, 'expensive way': 1, 'much money': 1}",4,crazy money,4,much
+"{'great guy': 3, 'great human': 1, 'nice guy': 1, 'much guy': 1}",6,great guy,4,nice
+"{'reliable transaction': 1, 'smoothest transaction': 1, 'great transaction': 1, 'complete transaction': 1}",4,reliable transaction,4,smoothest
+"{'many year': 3, 'past year': 2, 'many time': 1, 'several time': 1}",7,many year,4,several
+"{'amazed pace': 1, 'fast action': 1, 'fast time': 1}",3,amazed pace,3,fast
+"{'future thing': 1, 'financial future': 1, 'next thing': 1}",3,future thing,3,next
+"{'single email': 1, 'entire email': 1, 'separate email': 1}",3,single email,3,single
+"{'extended family': 1, 'new family': 1, 'single family': 1}",3,extended family,3,single
+"{'many friend': 1, 'amazing friend': 1, 'great friend': 1}",3,many friend,3,many
+"{'invaluable wife': 1, 'sure wife': 1, 'glad wife': 1}",3,invaluable wife,3,sure
+"{'extreme patience': 1, 'available patience': 1, 'ethic patience': 1}",3,extreme patience,3,extreme
+"{'first phone': 1, 'personal phone': 1, 'first contact': 1}",3,first phone,3,personal
+"{'patient question': 1, 'nice patient': 1, 'patient folk': 1}",3,patient question,3,patient
+"{'helpful completing': 1, 'helpful making': 1, 'complete task': 1}",3,helpful completing,3,helpful
+"{'quick response': 1, 'quick claim': 1, 'quick respond': 1}",3,quick response,3,quick
+"{'personal attention': 1, 'thorough attention': 1, 'personal note': 1}",3,personal attention,3,thorough
+"{'respectful professionalism': 1, 'enough professionalism': 1, 'close professionalism': 1}",3,respectful professionalism,3,respectful
+"{'closed week': 2, 'close week': 1, 'closed day': 1}",4,closed week,3,closed
+"{'large debt': 1, 'normal debt': 1, 'due debt': 1}",3,large debt,3,normal
+"{'notary call': 1, 'notary come': 1, 'local notary': 1}",3,notary call,3,notary
+"{'closed loan': 1, 'close mortgage': 1, 'close loan': 1}",3,closed loan,3,closed
+"{'financial scenario': 1, 'financial shape': 1, 'financial need': 1}",3,financial scenario,3,financial
+"{'amazing help': 1, 'efficient help': 1, 'exceptional help': 1}",3,amazing help,3,exceptional
+"{'helpful hurdle': 1, 'able help': 1, 'difficult task': 1}",3,helpful hurdle,3,helpful
+"{'facilitated processing': 1, 'expeditious processing': 1, 'nayeli processing': 1}",3,facilitated processing,3,nayeli
+"{'helpful question': 1, 'helpful process': 2, 'available help': 2}",5,helpful process,3,helpful
+"{'future assistance': 1, 'financial assistance': 1, 'future thank': 2}",4,future thank,3,future
+"{'accurate information': 1, 'kind information': 1, 'much information': 1}",3,accurate information,3,much
+"{'best outcome': 1, 'happy outcome': 1, 'excellent result': 1}",3,best outcome,3,happy
+"{'new home': 1, 'third home': 1, 'previous home': 1}",3,new home,3,third
+"{'whole time': 1, 'whole way': 2, 'entire way': 1}",4,whole way,3,whole
+"{'final process': 1, 'final stage': 1, 'final word': 1}",3,final process,3,final
+"{'great word': 1, 'true word': 1, 'excellent term': 1}",3,great word,3,true
+"{'numerous obstacle': 1, 'several hurdle': 1, 'insurmountable obstacle': 1}",3,numerous obstacle,3,several
+"{'many lender': 1, 'different lender': 1, 'friendly lender': 1}",3,many lender,3,many
+"{'awful deal': 1, 'terrible chose': 1}",2,awful deal,2,terrible
+"{'much people': 1, 'many people': 1}",2,much people,2,much
+"{'great recommendation': 1, 'recommend people': 1}",2,great recommendation,2,recommend
+"{'individual case': 1, 'informed case': 1}",2,individual case,2,informed
+"{'new sale': 1, 'new purchase': 2}",3,new purchase,2,new
+"{'great attribute': 1, 'great asset': 1}",2,great attribute,2,great
+"{'good credit': 2, 'perfect credit': 1}",3,good credit,2,perfect
+"{'monthly bill': 1, 'monthly payment': 3}",4,monthly payment,2,monthly
+"{'right discount': 1, 'aware discount': 1}",2,right discount,2,right
+"{'easy company': 1, 'explicit company': 1}",2,easy company,2,explicit
+"{'willing help': 1, 'helpful guy': 1}",2,willing help,2,willing
+"{'big raise': 1, 'higher ups': 1}",2,big raise,2,higher
+"{'awesome deal': 1, 'excellent deal': 1}",2,awesome deal,2,excellent
+"{'great year': 1, 'last year': 1}",2,great year,2,last
+"{'many step': 1, 'next step': 1}",2,many step,2,next
+"{'correct path': 1, 'right path': 1}",2,correct path,2,right
+"{'limited insight': 1, 'little unsure': 1}",2,limited insight,2,little
+"{'helpful company': 1, 'recommend company': 2}",3,recommend company,2,recommend
+"{'great alot': 1, 'awesome part': 1}",2,great alot,2,great
+"{'usual thinking': 1, 'effective thought': 1}",2,usual thinking,2,usual
+"{'trustworthy employee': 1, 'trustworthy work': 1}",2,trustworthy employee,2,trustworthy
+"{'common practice': 1, 'standard practice': 1}",2,common practice,2,standard
+"{'competitive offer': 1, 'competitive interest': 1}",2,competitive offer,2,competitive
+"{'helpful agent': 1, 'fortunate agent': 1}",2,helpful agent,2,helpful
+"{'several house': 1, 'bigger house': 1}",2,several house,2,several
+"{'close begin': 1, 'ready close': 1}",2,close begin,2,ready
+"{'dedicated people': 1, 'great people': 4}",5,great people,2,great
+"{'fantastic advice': 1, 'great advice': 1}",2,fantastic advice,2,great
+"{'multiple option': 1, 'several option': 1}",2,multiple option,2,several
+"{'extensive request': 1, 'urgent need': 1}",2,extensive request,2,urgent
+"{'favorable need': 1, 'due requirement': 1}",2,favorable need,2,favorable
+"{'several day': 1, 'several month': 1}",2,several day,2,several
+"{'past week': 1, 'last week': 2}",3,last week,2,past
+"{'important person': 1, 'good person': 1}",2,important person,2,important
+"{'honest company': 2, 'real company': 1}",3,honest company,2,real
+"{'necessary feedback': 1, 'responsive question': 1}",2,necessary feedback,2,responsive
+"{'easy pleasure': 1, 'extreme pleasure': 1}",2,easy pleasure,2,extreme
+"{'reassured process': 2, 'reassuring time': 1}",3,reassured process,2,reassuring
+"{'administrative staff': 1, 'professional staff': 1}",2,administrative staff,2,professional
+"{'quick process': 1, 'quick professional': 1}",2,quick process,2,quick
+"{'separate people': 1, 'different people': 1}",2,separate people,2,separate
+"{'new property': 1, 'different property': 1}",2,new property,2,new
+"{'net capital': 1, 'national capital': 1}",2,net capital,2,net
+"{'timely fashion': 1, 'timely manner': 2}",3,timely manner,2,timely
+"{'long relationship': 1, 'long story': 1}",2,long relationship,2,long
+"{'financial crunch': 1, 'financial situation': 1}",2,financial crunch,2,financial
+"{'industrious execution': 1, 'effortlessly execution': 1}",2,industrious execution,2,industrious
+"{'top notch': 3, 'top thing': 1}",4,top notch,2,top
+"{'close contact': 1, 'close attention': 1}",2,close contact,2,close
+"{'bureaucratic process': 1, 'bureaucratic nightmare': 1}",2,bureaucratic process,2,bureaucratic
+"{'several occasion': 1, 'separate occasion': 1}",2,several occasion,2,several
+"{'disappointed lack': 1, 'major disappointment': 1}",2,disappointed lack,2,major
+"{'high praise': 1, 'pleased w': 1}",2,high praise,2,pleased
+"{'professional network': 1, 'firm network': 1}",2,professional network,2,professional
+{'able reach': 1},1,able reach,1,able
+{'able lock': 1},1,able lock,1,able
+{'knowledgeable loan': 1},1,knowledgeable loan,1,knowledgeable
+{'lowest cost': 1},1,lowest cost,1,lowest
+{'traditional bank': 1},1,traditional bank,1,traditional
+{'online tool': 1},1,online tool,1,online
+{'necessary correction': 1},1,necessary correction,1,necessary
+{'new proposal': 2},2,new proposal,1,new
+{'innumerable hour': 1},1,innumerable hour,1,innumerable
+{'sorry tax': 1},1,sorry tax,1,sorry
+{'real estate': 1},1,real estate,1,real
+{'frustrating refi': 1},1,frustrating refi,1,frustrating
+{'reasonable expense': 1},1,reasonable expense,1,reasonable
+{'prior appraisal': 1},1,prior appraisal,1,prior
+{'best example': 1},1,best example,1,best
+{'close home': 1},1,close home,1,close
+{'proper expectation': 1},1,proper expectation,1,proper
+{'single time': 1},1,single time,1,single
+{'excessive insult': 1},1,excessive insult,1,excessive
+{'good condition': 1},1,good condition,1,good
+{'speak finance': 1},1,speak finance,1,speak
+{'smooth silk': 1},1,smooth silk,1,smooth
+{'excessive opinion': 1},1,excessive opinion,1,excessive
+{'beat competitor': 1},1,beat competitor,1,beat
+{'double cash': 1},1,double cash,1,double
+{'smooth sailing': 1},1,smooth sailing,1,smooth
+{'comfortable retirement': 1},1,comfortable retirement,1,comfortable
+{'net closing': 1},1,net closing,1,net
+{'higher promotion': 1},1,higher promotion,1,higher
+{'closer textbook': 1},1,closer textbook,1,closer
+{'happen network': 2},2,happen network,1,happen
+{'total understanding': 1},1,total understanding,1,total
+{'small hoop': 1},1,small hoop,1,small
+{'well expedience': 1},1,well expedience,1,well
+{'first language': 1},1,first language,1,first
+{'new goto': 1},1,new goto,1,new
+{'ready purchase': 1},1,ready purchase,1,ready
+{'senior mortgage': 1},1,senior mortgage,1,senior
+{'many question': 2},2,many question,1,many
+{'matter hour': 1},1,matter hour,1,matter
+{'least day': 1},1,least day,1,least
+{'second time': 2},2,second time,1,second
+{'highest review': 1},1,highest review,1,highest
+{'main reason': 1},1,main reason,1,main
+{'first instinct': 1},1,first instinct,1,first
+{'great interaction': 1},1,great interaction,1,great
+{'little question': 1},1,little question,1,little
+{'excellent procurement': 1},1,excellent procurement,1,excellent
+{'stellar credit': 1},1,stellar credit,1,stellar
+{'full time': 1},1,full time,1,full
+{'pleased report': 1},1,pleased report,1,pleased
+{'afraid process': 1},1,afraid process,1,afraid
+{'direct lending': 1},1,direct lending,1,direct
+{'edgar guide': 1},1,edgar guide,1,edgar
+{'key point': 1},1,key point,1,key
+{'unsolicited robo': 1},1,unsolicited robo,1,unsolicited
+{'smooth transition': 1},1,smooth transition,1,smooth
+{'competitive rate': 1},1,competitive rate,1,competitive
+{'third company': 1},1,third company,1,third
+{'safe company': 1},1,safe company,1,safe
+{'friendly customer': 1},1,friendly customer,1,friendly
+{'bottom heart': 1},1,bottom heart,1,bottom
+{'knowledgeable line': 1},1,knowledgeable line,1,knowledgeable
+{'little life': 1},1,little life,1,little
+{'open heart': 1},1,open heart,1,open
+{'old hospital': 1},1,old hospital,1,old
+{'great hope': 1},1,great hope,1,great
+{'compassionate life': 1},1,compassionate life,1,compassionate
+{'able research': 1},1,able research,1,able
+{'serious surgery': 1},1,serious surgery,1,serious
+{'serious consequence': 1},1,serious consequence,1,serious
+{'leery scam': 1},1,leery scam,1,leery
+{'representative company': 3},3,representative company,1,representative
+{'developed rely': 1},1,developed rely,1,developed
+{'concerned son': 1},1,concerned son,1,concerned
+{'timely pain': 1},1,timely pain,1,timely
+{'better term': 1},1,better term,1,better
+{'closed time': 1},1,closed time,1,closed
+{'phenomenal timing': 1},1,phenomenal timing,1,phenomenal
+{'back question': 1},1,back question,1,back
+{'first house': 1},1,first house,1,first
+{'random call': 1},1,random call,1,random
+{'repetitive sincerity': 1},1,repetitive sincerity,1,repetitive
+{'smoother loan': 1},1,smoother loan,1,smoother
+{'best remortgage': 1},1,best remortgage,1,best
+{'better broker': 1},1,better broker,1,better
+{'respectful time': 1},1,respectful time,1,respectful
+{'criminal practice': 1},1,criminal practice,1,criminal
+{'painless process': 1},1,painless process,1,painless
+{'due change': 1},1,due change,1,due
+{'huge difference': 1},1,huge difference,1,huge
+{'several ups': 1},1,several ups,1,several
+{'top mother': 1},1,top mother,1,top
+{'little hand': 1},1,little hand,1,little
+{'rite lady': 1},1,rite lady,1,rite
+{'high tech': 1},1,high tech,1,high
+{'actual payment': 1},1,actual payment,1,actual
+{'servicing lead': 1},1,servicing lead,1,servicing
+{'right decision': 1},1,right decision,1,right
+{'associate ericka': 1},1,associate ericka,1,associate
+{'amazing joy': 1},1,amazing joy,1,amazing
+{'relative thank': 1},1,relative thank,1,relative
+{'rough time': 1},1,rough time,1,rough
+{'sole income': 1},1,sole income,1,sole
+{'regular basis': 1},1,regular basis,1,regular
+{'satisfied star': 1},1,satisfied star,1,satisfied
+{'personable thinking': 1},1,personable thinking,1,personable
+{'last minute': 1},1,last minute,1,last
+{'multiple fi': 1},1,multiple fi,1,multiple
+{'new load': 1},1,new load,1,new
+{'normal work': 1},1,normal work,1,normal
+{'many instance': 1},1,many instance,1,many
+{'wrong check': 1},1,wrong check,1,wrong
+{'closer underwriting': 1},1,closer underwriting,1,closer
+{'new thread': 1},1,new thread,1,new
+{'original agreement': 1},1,original agreement,1,original
+{'free concern': 1},1,free concern,1,free
+{'easy experience': 1},1,easy experience,1,easy
+{'weekly update': 1},1,weekly update,1,weekly
+{'past working': 1},1,past working,1,past
+{'fantastic member': 1},1,fantastic member,1,fantastic
+{'informative encouraging': 1},1,informative encouraging,1,informative
+{'tight spot': 1},1,tight spot,1,tight
+{'higher star': 1},1,higher star,1,higher
+{'genuine person': 1},1,genuine person,1,genuine
+{'outstanding tyler': 1},1,outstanding tyler,1,outstanding
+{'rough lady': 1},1,rough lady,1,rough
+{'best thanksnoushin': 1},1,best thanksnoushin,1,best
+{'human help': 1},1,human help,1,human
+{'great birthday': 1},1,great birthday,1,great
+{'zachary team': 1},1,zachary team,1,zachary
+{'good listener': 1},1,good listener,1,good
+{'flexible waste': 1},1,flexible waste,1,flexible
+{'human asset': 1},1,human asset,1,human
+{'overall rating': 1},1,overall rating,1,overall
+{'personal service': 1},1,personal service,1,personal
+{'several message': 1},1,several message,1,several
+{'different department': 1},1,different department,1,different
+{'bad mailing': 1},1,bad mailing,1,bad
+{'minimal work': 1},1,minimal work,1,minimal
+{'many detour': 1},1,many detour,1,many
+{'long order': 1},1,long order,1,long
+{'able use': 1},1,able use,1,able
+{'comfortable staff': 1},1,comfortable staff,1,comfortable
+{'best product': 1},1,best product,1,best
+{'major freak': 1},1,major freak,1,major
+{'humorous presence': 1},1,humorous presence,1,humorous
+{'prime shipping': 1},1,prime shipping,1,prime
+{'samuel louellens': 1},1,samuel louellens,1,samuel
+{'immediate grasp': 1},1,immediate grasp,1,immediate
+{'relative contact': 1},1,relative contact,1,relative
+{'first choice': 1},1,first choice,1,first
+{'real life': 1},1,real life,1,real
+{'committed schedule': 1},1,committed schedule,1,committed
+{'effective planning': 1},1,effective planning,1,effective
+{'unbelievable achievement': 1},1,unbelievable achievement,1,unbelievable
+{'successful financing': 1},1,successful financing,1,successful
+{'confident friend': 1},1,confident friend,1,confident
+{'finish line': 1},1,finish line,1,finish
+{'netcap team': 1},1,netcap team,1,netcap
+{'bad company': 1},1,bad company,1,bad
+{'shortest time': 1},1,shortest time,1,shortest
+{'left company': 1},1,left company,1,left
+{'whole progress': 1},1,whole progress,1,whole
+{'online home': 1},1,online home,1,online
+{'nervous process': 1},1,nervous process,1,nervous
+{'technical skill': 1},1,technical skill,1,technical
+{'best way': 1},1,best way,1,best
+{'married home': 1},1,married home,1,married
+{'front line': 1},1,front line,1,front
+{'much norm': 1},1,much norm,1,much
+{'appraiser return': 1},1,appraiser return,1,appraiser
+{'round trip': 1},1,round trip,1,round
+{'original visit': 1},1,original visit,1,original
+{'due way': 1},1,due way,1,due
+{'pleasing voice': 1},1,pleasing voice,1,pleasing
+{'whole package': 1},1,whole package,1,whole
+{'able match': 1},1,able match,1,able
+{'much leg': 1},1,much leg,1,much
+{'full detail': 1},1,full detail,1,full
+{'right angel': 1},1,right angel,1,right
+{'conditional approval': 1},1,conditional approval,1,conditional
+{'ryan barrientos': 2},2,ryan barrientos,1,ryan
+{'alexa love': 1},1,alexa love,1,alexa
+{'informed process': 1},1,informed process,1,informed
+{'anytime question': 2},2,anytime question,1,anytime
+{'dumb question': 1},1,dumb question,1,dumb
+{'smooth look': 1},1,smooth look,1,smooth
+{'melissa title': 1},1,melissa title,1,melissa
+{'adrian fernandez': 1},1,adrian fernandez,1,adrian
+{'ethic appreciate': 1},1,ethic appreciate,1,ethic
+{'high quality': 1},1,high quality,1,high
+{'perfect pair': 1},1,perfect pair,1,perfect
+{'professional prompt': 1},1,professional prompt,1,professional
+{'accessible attentive': 1},1,accessible attentive,1,accessible
+{'happy coustmer': 1},1,happy coustmer,1,happy
+{'wonderful staff': 1},1,wonderful staff,1,wonderful
+{'unbiased lending': 1},1,unbiased lending,1,unbiased
+{'third party': 1},1,third party,1,third
+{'substantial saving': 1},1,substantial saving,1,substantial
+{'top account': 1},1,top account,1,top
+{'best customer': 1},1,best customer,1,best
+{'corporate ethic': 1},1,corporate ethic,1,corporate
+{'empathic situation': 1},1,empathic situation,1,empathic
+{'deserved review': 1},1,deserved review,1,deserved
+{'priceless paul': 1},1,priceless paul,1,priceless
+{'responsive help': 1},1,responsive help,1,responsive
+{'quick turn': 1},1,quick turn,1,quick
+{'best place': 1},1,best place,1,best
+{'honesty drive': 1},1,honesty drive,1,honesty
+{'multiple call': 1},1,multiple call,1,multiple
+{'old survey': 1},1,old survey,1,old
+{'least pocket': 1},1,least pocket,1,least
+{'reduced income': 1},1,reduced income,1,reduced
+{'initial quote': 1},1,initial quote,1,initial
+{'free process': 1},1,free process,1,free
+{'lower others': 1},1,lower others,1,lower
+{'least people': 1},1,least people,1,least
+{'lower rate': 2},2,lower rate,1,lower
+{'certain thing': 1},1,certain thing,1,certain
+{'main goal': 2},2,main goal,1,main
+{'hesitate refer': 1},1,hesitate refer,1,hesitate
+{'exceptional salesman': 1},1,exceptional salesman,1,exceptional
+{'lucky team': 1},1,lucky team,1,lucky
+{'informed requirement': 1},1,informed requirement,1,informed
+{'answered question': 1},1,answered question,1,answered
+{'current information': 1},1,current information,1,current
+{'rocky journey': 1},1,rocky journey,1,rocky
+{'bad joke': 1},1,bad joke,1,bad
+{'divorced woman': 1},1,divorced woman,1,divorced
+{'good rush': 1},1,good rush,1,good
+{'difficult process': 1},1,difficult process,1,difficult
+{'best addition': 1},1,best addition,1,best
+{'testy moment': 1},1,testy moment,1,testy
+{'personal touch': 2},2,personal touch,1,personal
+{'personal nature': 1},1,personal nature,1,personal
+{'good bonus': 1},1,good bonus,1,good
+{'attractive user': 1},1,attractive user,1,attractive
+{'friendly site': 1},1,friendly site,1,friendly
+{'regular customer': 1},1,regular customer,1,regular
+{'amazing app': 1},1,amazing app,1,amazing
+{'transparent thoughtful': 1},1,transparent thoughtful,1,transparent
+{'initial call': 1},1,initial call,1,initial
+{'extra effort': 1},1,extra effort,1,extra
+{'sarah franc': 1},1,sarah franc,1,sarah
+{'scan document': 1},1,scan document,1,scan
+{'creative follow': 1},1,creative follow,1,creative
+{'outside job': 1},1,outside job,1,outside
+{'truthful talking': 1},1,truthful talking,1,truthful
+{'sabeastian aviles': 1},1,sabeastian aviles,1,sabeastian
+{'primary residence': 1},1,primary residence,1,primary
+{'bandaid loan': 1},1,bandaid loan,1,bandaid
+{'many suggestion': 1},1,many suggestion,1,many
+{'fast service': 3},3,fast service,1,fast
+{'second business': 1},1,second business,1,second
+{'motivated way': 1},1,motivated way,1,motivated
+{'high school': 1},1,high school,1,high
+{'best lot': 1},1,best lot,1,best
+{'amazing people': 2},2,amazing people,1,amazing
+{'difficult circumstance': 1},1,difficult circumstance,1,difficult
+{'difficult set': 1},1,difficult set,1,difficult
+{'byzantine process': 1},1,byzantine process,1,byzantine
