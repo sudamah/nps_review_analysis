@@ -33,6 +33,6 @@ class LabelsToDataframe:
         print('-'*110)
 
         print(df_final.to_csv(
-            "/home/heptagon/Desktop/nps_review_analysis/dataset/BankPanacea_detail_review_topic.csv", index=False))
+            "/home/heptagon/Desktop/nps_review_analysis/dataset/network_capital_funding_detail_review_topic.csv", index=False))
 
         return df_final
